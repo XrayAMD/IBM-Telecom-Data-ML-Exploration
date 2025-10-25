@@ -1,1 +1,2 @@
 # IBM-Telecom-Data-ML-Exploration
+In this repo, I have done exploratory data analysis of the IBM telecom churn dataset.  Included is feature analysis, Logistic Regression, Random Forests, and XGBoost models.  I perform hyperparameter optimization and compare these models through analysis of their most used features, their confusion matrixes, ROC-AUC curves, and overall accuracy on the test dataset.
